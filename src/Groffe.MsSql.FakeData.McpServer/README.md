@@ -1,6 +1,10 @@
 # MCP Server - Dados Fake no padrao brasileiro para SQL Server
 
-Solucao de dados fake no padrao brasileiro para SQL Server, utilizando o Model Context Protocol (MCP) para interagir com Chats de IA. Solução desenvolvida por Renato Groffe
+Solucao de dados fake no padrao brasileiro para SQL Server, utilizando o Model Context Protocol (MCP) para interagir com Chats de IA. Desenvolvido por Renato Groffe.
+
+Repo do projeto: https://github.com/renatogroffe/dotnet9-mcp-fakedata-sqlserver
+
+Repo em que acontece o build deste package: https://github.com/groffedemos/mcp-sqlserver-fakedata-nuget
 
 ---
 

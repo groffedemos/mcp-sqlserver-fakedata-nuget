@@ -19,7 +19,7 @@
     <Description>An MCP server using the MCP C# SDK.</Description>
 	  
     <!-- Campos adicionais -->
-    <AssemblyName>mcpfakedatasqlserver-202508a</AssemblyName>
+    <AssemblyName>mcpfakedatasqlserver-preview01-202508a</AssemblyName>
     <ToolCommandName>mcpfakedatasqlserver</ToolCommandName>
     <Authors>Renato Groffe</Authors>
     <Company>Groffe</Company>
