@@ -18,14 +18,14 @@
     <PackageTags>AI; MCP; server; stdio</PackageTags>
     <Description>An MCP server using the MCP C# SDK.</Description>
 	  
-	<!-- Campos adicionais -->
-	<AssemblyName>mcpfakedatasqlserver-202508a</AssemblyName>
-	<ToolCommandName>mcpfakedatasqlserver</ToolCommandName>
-	<Authors>Renato Groffe</Authors>
-	<Company>Groffe</Company>
-	<Description>
-		MCP para geracao de dados fake no padrao brasileiro em bases do SQL Server.
-	</Description>
+    <!-- Campos adicionais -->
+    <AssemblyName>mcpfakedatasqlserver-202508a</AssemblyName>
+    <ToolCommandName>mcpfakedatasqlserver</ToolCommandName>
+    <Authors>Renato Groffe</Authors>
+    <Company>Groffe</Company>
+    <Description>
+      MCP para geracao de dados fake no padrao brasileiro em bases do SQL Server.
+    </Description>
   </PropertyGroup>
 
   <!-- Include additional files for browsing the MCP server. -->
